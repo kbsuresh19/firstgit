@@ -2,3 +2,4 @@ ADD 100
 ADD 2
 ADD 3
 
+MULTI 2*3
